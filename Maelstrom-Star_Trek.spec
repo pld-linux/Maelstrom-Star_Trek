@@ -2,9 +2,9 @@ Summary:	Rockin' asteroids game - Star Trek theme
 Summary(pl):	Gra, w której strzelasz do asteroidów - motyw Star Trek
 Name:		Maelstrom-Star_Trek
 Version:	1
-Release:	1
+Release:	2
 License:	dunno
-Group:		X11/Application/Games
+Group:		X11/Applications/Games
 Source0:	http://www.devolution.com/~slouken/Maelstrom/add-ons/Star_Trek.tar.gz
 URL:		http://www.devolution.com/~slouken/Maelstrom/add-ons/
 Requires:	Maelstrom
