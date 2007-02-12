@@ -1,5 +1,5 @@
 Summary:	Rockin' asteroids game - Star Trek theme
-Summary(pl):	Gra, w której strzelasz do asteroidów - motyw Star Trek
+Summary(pl.UTF-8):   Gra, w ktÃ³rej strzelasz do asteroidÃ³w - motyw Star Trek
 Name:		Maelstrom-Star_Trek
 Version:	1
 Release:	3
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Star Trek theme for Maelstrom.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw Star Trek dla Maelstroma.
 
 %prep
