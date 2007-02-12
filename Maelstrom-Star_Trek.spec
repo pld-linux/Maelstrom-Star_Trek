@@ -1,5 +1,5 @@
 Summary:	Rockin' asteroids game - Star Trek theme
-Summary(pl.UTF-8):   Gra, w której strzelasz do asteroidów - motyw Star Trek
+Summary(pl.UTF-8):	Gra, w której strzelasz do asteroidów - motyw Star Trek
 Name:		Maelstrom-Star_Trek
 Version:	1
 Release:	3
