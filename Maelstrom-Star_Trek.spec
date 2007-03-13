@@ -5,8 +5,8 @@ Version:	1
 Release:	3
 License:	unknown
 Group:		X11/Applications/Games
-# Source0-md5:	ea23f9eaa96a27c14affe3196611c918
 Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Star_Trek.zip
+# Source0-md5:	ea23f9eaa96a27c14affe3196611c918
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-1980
